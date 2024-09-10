@@ -10,7 +10,7 @@
 |                         | **WebSocket**               | Komunikasi real-time antara server dan client.                |
 |                         | **NSSM**                    | Menjalankan Express.js sebagai service di Windows.            |
 | **Database**            | **PostgreSQL**              | Database untuk menyimpan data.                                |
-|                         | **PgBouncer** (optional)    | Connection pooling untuk optimasi database.                   |
+|                         | **PgBouncer**               | Connection pooling untuk optimasi database.                   |
 | **Logging & Monitoring**| **Winston**                 | Logging sistem untuk mencatat event, error, dan koneksi.      |
 |                         | **Windows Event Viewer**    | Monitoring log di Windows.                                    |
 |                         | **Windows Performance Monitor** | Monitoring performa sistem (CPU, memory, dll).              |
